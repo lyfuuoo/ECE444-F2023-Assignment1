@@ -8,3 +8,6 @@
 
 ## activity 3
 ![image](https://github.com/lyfuuoo/ECE444-F2023-Assignment1/assets/74110890/5a7ba2b2-5384-4362-a72a-7b6e776dd7a2)
+
+## activity 4
+![image](https://github.com/lyfuuoo/ECE444-F2023-Assignment1/assets/74110890/0ebd3b8b-9b97-4821-ad94-2003052a29d3)
